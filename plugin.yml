@@ -1,0 +1,4 @@
+name: ARKSaddleRecipe
+main: org.dyndns.rottenkomquat.ArkSaddleRecipe
+version: 1.0
+commands:
